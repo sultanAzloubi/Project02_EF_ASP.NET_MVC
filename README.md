@@ -1,7 +1,5 @@
 # Project02_EF_ASP.NET_MVC
 
-# Project02_EF_ASP.NET_MVC
-
 
 # فكرة المشروع 
 
